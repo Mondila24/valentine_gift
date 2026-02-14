@@ -1,6 +1,0 @@
-{
-  "buildCommand": "",
-  "outputDirectory": ".",
-  "framework": "",
-  "devCommand": "python -m http.server 8000"
-}
